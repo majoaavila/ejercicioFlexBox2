@@ -1,0 +1,51 @@
+.line{
+    display:flex;
+    justify-content: center;
+}
+
+.container{
+    width: 250px;
+    height: 250px;
+    margin: 0;
+    border: black 2px solid;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.A {
+    background-color: aquamarine;
+}
+
+.B {
+    background-color: yellow;
+}
+
+.C {
+    background-color: red;
+}
+
+.D {
+    background-color: purple;
+}
+
+.E {
+    background-color: pink;
+}
+
+.F {
+    background-color: green;
+}
+
+
+
+
+
+/* 
+h1{
+    /* width: 250px; */
+    /* height: 250px; */
+    /* background-color: chartreuse;
+    margin: 0;
+    border: black 2px solid; */
+
